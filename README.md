@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Lina Volkova 👋
 
-<!--
-**Lina2637/Lina2637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Engineer and Data Science student passionate about Python, SQL, data visualization, and analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Learning Data Engineering and Data Science
+- Building portfolio projects with Python and Tableau
+- Interested in analytics, automation, and business intelligence
+- Currently improving my SQL and visualization skills
+
+---
+
+## Tech Stack
+
+- Python
+- SQL
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- Tableau Public
+- Git & GitHub
+
+---
+
+## Featured Projects
+
+### Netflix Content Analysis
+Python data visualization project exploring Netflix movies and TV shows using pandas and matplotlib.
+
+### Tesla & GameStop Stock Revenue Analysis
+Financial data analysis project exploring Tesla and GameStop stock performance and revenue trends using Python.
+
+### Time Series Forecasting Demo
+Time-series forecasting project analyzing sales trends using Python and Jupyter Notebook.
+
+### Tableau Sales Dashboard
+Interactive Tableau dashboard analyzing regional sales performance and product categories.
+
+---
+
+## Currently Learning
+
+- Data Engineering
+- SQL for analytics
+- Tableau dashboards
+- Data visualization
+- Python for data analysis
+
+---
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/lina-volkova-569b32269
+- GitHub: github.com/Lina2637
+
+---
+
+⭐ Thanks for visiting my profile!
